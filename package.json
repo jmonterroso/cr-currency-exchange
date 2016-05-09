@@ -1,0 +1,30 @@
+{
+  "name": "cr-currency-exchange",
+  "version": "1.0.0",
+  "description": "Returns json object containing the costarican colon exchange value",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jmonterroso/cr-currency-exchange.git"
+  },
+  "keywords": [
+    "exchange",
+    "currency",
+    "costa",
+    "rica"
+  ],
+  "author": "Jayson Monterroso <jayson.monterroso@gmail.com> (http://jaysonmonterroso.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmonterroso/cr-currency-exchange/issues"
+  },
+  "homepage": "https://github.com/jmonterroso/cr-currency-exchange#readme",
+  "dependencies": {
+    "html-entities": "^1.2.0",
+    "moment": "^2.13.0",
+    "xml2js": "^0.4.16"
+  }
+}
