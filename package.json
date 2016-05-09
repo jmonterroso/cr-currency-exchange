@@ -1,6 +1,6 @@
 {
   "name": "cr-currency-exchange",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Returns json object containing the costarican colon exchange value",
   "main": "index.js",
   "scripts": {
